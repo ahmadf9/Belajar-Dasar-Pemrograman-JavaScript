@@ -1,6 +1,6 @@
 const temperatureInCelsius = 40;
 
-// Function Regular
+//* Function Regular
 function convertCelsiusToFahrenheit(temperature) {
     const temperatureInFahrenheit = (temperature * 9 / 5) + 32;
 
